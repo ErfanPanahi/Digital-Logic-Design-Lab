@@ -8,11 +8,11 @@ In this repository, projects related to the Digital Logic Design course laborato
 
 Experiment 1 (Sessions 1, 2) `Clock and Periodic Signal Generation`
 
-Experiment 1 (Sessions 3, 4) `Sequential Synthesis and FPGA Device Programming`
+Experiment 2 (Sessions 3, 4) `Sequential Synthesis and FPGA Device Programming`
 
-Experiment 1 (Sessions 5, 6, 7) `Function Generator`
+Experiment 3 (Sessions 5, 6, 7) `Function Generator`
 
-Experiment 1 (Sessions 8, 9) `Accelerator and Wrappers`
+Experiment 4 (Sessions 8, 9) `Accelerator and Wrappers`
 
 
 
